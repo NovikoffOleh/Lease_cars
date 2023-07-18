@@ -121,11 +121,20 @@ body{
   margin: 0 auto 30px;
   text-align: center;
 }
+.name {
+ 
+  text-align: center;
+  font-size: 12px;
+}
+.footer-copyright{
+  margin-bottom: 25px;
+}
 
 .copy__nav-list{
   display: flex;
   justify-content: center;
   gap: 40px;
+  
 }
 
 .main{
